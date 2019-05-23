@@ -4,7 +4,6 @@ description: > # this means to ignore newlines until "twitter_username:"
   I'm a DPhil student working on phonology and psycholinguistics
   with Professor Aditi Lahiri at the University of Oxford.
 # social links
-baseurl: https://emilylindsay.github.io
 twitter_username: emily_linguist
 github_username:  EmilyLindsay
 rss: rss
